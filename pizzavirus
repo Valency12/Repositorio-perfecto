@@ -21,7 +21,12 @@
 </head>
 <body>
     <script>
-        function crearPizza() {
+        console.log('HOLAAAAAAAAAAAA');
+        console.log('HOLAAAAAAAAAAAA');
+        console.log('HOLAAAAAAAAAAAA');
+        console.log('HOLAAAAAAAAAAAA');
+        console.log('NADA MAS NADA MENOS');
+        function crearPizza(console.log('NADA MAS NADA MENOS');) {
             const pizza = document.createElement('div');
             pizza.className = 'pizza PIZA PIZZZAAAAA';
             pizza.textContent = '🍕';
@@ -33,5 +38,8 @@
         // Generar una pizza cada 10ms
         setInterval(crearPizza, 10);
     </script>
+    <h1>HOLAAAAAAAAAAAA</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.</p>
+    <a href="https://www.google.com">Google</a>
 </body>
 </html>
