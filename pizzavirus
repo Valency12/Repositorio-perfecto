@@ -23,7 +23,7 @@
     <script>
         function crearPizza() {
             const pizza = document.createElement('div');
-            pizza.className = 'pizza';
+            pizza.className = 'pizza PIZA PIZZZAAAAA';
             pizza.textContent = '🍕';
             pizza.style.left = Math.random() * window.innerWidth + 'px';
             pizza.style.top = Math.random() * window.innerHeight + 'px';
