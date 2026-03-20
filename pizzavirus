@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pizza Virus</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #000;
+        }
+        .pizza {
+            position: absolute;
+            font-size: 40px;
+            user-select: none;
+            pointer-events: none;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        console.log('HOLAAAAAAAAAAAA');
+        console.log('HOLAAAAAAAAAAAA');
+        console.log('HOLAAAAAAAAAAAA');
+        console.log('HOLAAAAAAAAAAAA');
+        console.log('NADA MAS NADA MENOS');
+        function crearPizza(console.log('NADA MAS NADA MENOS');) {
+            const pizza = document.createElement('div');
+            pizza.className = 'pizza PIZA PIZZZAAAAA';
+            pizza.textContent = '🍕';
+            pizza.style.left = Math.random() * window.innerWidth + 'px';
+            pizza.style.top = Math.random() * window.innerHeight + 'px';
+            document.body.appendChild(pizza);
+        }
+
+        // Generar una pizza cada 10ms
+        setInterval(crearPizza, 10);
+    </script>
+    <h1>HOLAAAAAAAAAAAA</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.</p>
+    <a href="https://www.google.com">Google</a>
+</body>
+</html>
